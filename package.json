@@ -12,6 +12,6 @@
     "@wesleytodd/openapi": "0.0.8",
     "express": "^4.17.1",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
